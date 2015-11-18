@@ -11,3 +11,4 @@ print(x * 8)
 nexinput = input()
 input(nexinput)
 input('Press Enter to exit')
+# урожение
